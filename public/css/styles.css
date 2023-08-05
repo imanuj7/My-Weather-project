@@ -1,0 +1,26 @@
+
+
+a{
+  font-family: sans-serif;
+}
+.navbar{
+  border-radius:15px;
+ margin: 1%;
+}
+.bg{
+  background-image: url("cloud.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.result{
+  text-align: center;
+  color:white;
+  font-family: sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 50px;
+width:40%;
+}
